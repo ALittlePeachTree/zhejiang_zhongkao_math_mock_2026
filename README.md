@@ -109,8 +109,8 @@ This work is licensed under a **[Creative Commons Attribution-NonCommercial-Shar
 
 ## 📥 获取资料 & 后续更新 / Get Resources & Updates
 
-- **GitHub 开源地址**：[（请在此处填写你的 GitHub 仓库链接）]  
-  **Source code & all files**: [Insert your GitHub repo URL here]
+- **GitHub 开源地址**：[（https://github.com/ALittlePeachTree/zhejiang-zhongkao-math-mock-2026）]  
+  **Source code & all files**: [https://github.com/ALittlePeachTree/zhejiang-zhongkao-math-mock-2026]
 - 若下载困难，欢迎私信索要全套资料！  
   Having trouble downloading? Feel free to message me for the full package!
 - **参考答案将于近期上传，敬请期待！**  
