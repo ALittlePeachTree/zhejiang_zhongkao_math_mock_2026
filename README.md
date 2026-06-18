@@ -6,12 +6,19 @@
 # 浙江省2026年初中学业水平模拟考试 · 数学卷
 
 > *📥 正式试卷下载 (Word)* *Download Paper (Word)* 👉
+
 > [zhejiang_zhongkao_math_mock_2026.docx](zhejiang_zhongkao_math_mock_2026.docx)
+
 > *📄 正式试卷下载 (PDF)* *Download Paper (PDF)* 👉
+
 > [zhejiang_zhongkao_math_mock_2026.pdf](zhejiang_zhongkao_math_mock_2026.pdf)
+
 > *🔑 参考答案下载 (Word)* *Download Answer Key (Word)* 👉
+
 > [zhejiang_zhongkao_math_mock_2026_answer.docx](zhejiang_zhongkao_math_mock_2026_answer.docx)
+
 > *📄 参考答案下载 (PDF)* *Download Answer Key (PDF)* 👉
+
 >  [zhejiang_zhongkao_math_mock_2026_answer.pdf](zhejiang_zhongkao_math_mock_2026_answer.pdf)
 
 *本卷面向初三学生，整体难度略高于中考，压轴题达到竞赛入门水平，适合拔高训练。* ***配套参考答案已同步发布，包含详细步骤***
@@ -50,6 +57,7 @@
 ## 🛠️ 制作工艺与工具链
 
 *本试卷的制作遵循严谨的“数字化命题”工作流，确保图形精准、排版专业。*
+
 *The workflow follows a rigorous digital authoring process to ensure precision and professional typesetting.*
 
 
@@ -61,12 +69,14 @@
 | **最终排版** | *WPS* 文字 | 进行人工排版、分栏、、公式对齐、精修及最终校对 |
 
 > 💡 **开源承诺**：所有制作过程中的源文件（`.ggb`, `.txt`, 原始扫描件等）均已开源，你可以复现每一道题的诞生过程。
+
 > *All source files (`.ggb`, `.txt`, original scans, etc.) have been open-sourced, so you can reproduce the creation process of each and every question.*
 ---
 
 ## 📂 项目结构说明 / Project Structure
 
 *本仓库不仅包含成品，更完整保留了从草稿到定稿的所有中间产物，供研究与复用。*
+
 *This repository contains not only the final product, but also all intermediate files from draft to final version, for study and reuse.*
 
 ```text
@@ -115,6 +125,7 @@ zhejiang-zhongkao-math-mock-2026/
 ## 📜 开源许可 / License
 
 *本试卷采用* ***[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)***。
+
 *This work is licensed under a* ***[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)***.
 
 ✅ **署名 (BY)**：*请保留原作者声明*。
