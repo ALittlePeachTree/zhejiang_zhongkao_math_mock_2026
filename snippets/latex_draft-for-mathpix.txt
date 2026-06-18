@@ -1,0 +1,719 @@
+1. 下列各数中是负数的是  
+A. $-7$  
+B. $0$  
+C. $9$  
+D. 无法确定  
+
+2. 现有9张大小质感均一样的扑克牌，上面分别写有“学数学，学思维，学方法”这9个字，小蔡同学从中任意抽取一张，抽到的卡片上面恰好写着“学”的概率为
+A. $\frac{1}{9}$  
+B. $\frac{2}{9}$  
+C. $\frac{1}{3}$  
+D. $\frac{4}{9}$  
+
+3. 科技不仅有高度，更有温度。2025年，温州理工学院的教师团队利用AI技术，成功“复活”了牺牲71年的烈士潘志民。通过修复珍贵的老照片，技术人员对烈士面部的每一个细节进行数字化重塑。已知AI模型在处理面部微表情时，需要捕捉像素间距仅为 $0.000\,000\,25$ 米的微小变化，为了让烈士的音容笑貌更自然，算法进行了数亿次的迭代运算，最终实现了跨越时空的“云团圆”。其中数据“$0.000\,000\,25$”可以用科学记数法表示为  
+A. $2.5 \times 10^{-6}$  
+B. $2.5 \times 10^{-7}$  
+C. $0.25 \times 10^{-6}$  
+D. $0.25 \times 10^{-7}$
+
+4. 下列说法正确的有个。  
+① $2^{2} + 2^{2} = 2^{3}$  
+② $(x^{3})^{3} = x^{9}$  
+③ $(x + y)^{2} = x^{2} + y^{2}$  
+④ $\frac{\sqrt{-k^{3}}}{k} m = \frac{\sqrt{-k^{3}}}{k} n$ 可化简为 $-\sqrt{-k}\,m = -\sqrt{-k}\,n$，则 $m$ 一定等于 $n$。  
+
+A. $0$    
+
+B. $1$    
+
+C.$2$     
+
+D.$3$
+
+5. 如图，根据图中的尺规作图痕迹，下列说法中不一定正确的是
+
+\begin{enumerate}
+
+    \item[A.] $AD \perp BC$
+    
+    \item[B.] 点 $D$ 是 $BC$ 的中点
+    
+    \item[C.] $AD$ 平分 $\angle BAC$
+    
+    \item[D.] $AB = BC$
+
+\end{enumerate}
+6. 如图，在平面直角坐标系 $xOy$ 中，函数 $y = \dfrac{8}{x}$（$x > 0$）的图象上有三点 $A$、$B$、$C$. 已知 $\triangle ABC$ 的面积为 $2$，且 $\triangle A'B'C'$ 是以坐标原点 $O$ 为位似中心、与 $\triangle ABC$ 位似的图形. 若 $\triangle A'B'C'$ 的面积为 $8\sqrt{2}$，点 $C'$ 关于 $x$ 轴的对称点落在反比例函数 $y = -\dfrac{k}{x}$ 的图象上，此时 $k$ 的值为
+
+A. $64$
+
+B. $-64$
+
+C. $32\sqrt{2}$
+
+D. $-32\sqrt{2}$
+
+7. 某中学 $905$ 班科学实验小组在楼老师的指导下，开展了以“利用无人机测量星星高度角”为主题的科学探究活动. 为提高测量精度，一位同学进行了如下操作：
+   
+\textbf{建立参照：} 将无人机从地面点 $O$ 垂直起飞至一定高度，并在 $O$ 点放置一部开启手电筒的手机作为参照光源，随后继续操控无人机上升至距地面 $120$ 米的空中.
+
+\textbf{水平飞行：} 无人机先向正南方向飞行一段距离，再向正东方向飞行一段距离，最终到达点 $P$，使得站在 $O$ 点的观察者恰好看到无人机遮挡住目标星星.
+
+\textbf{姿态调整：} 在点 $P$ 处，调整无人机机身，使机头（云台摄像机安装于机头）朝向正北并锁定；此过程中云台摄像机未发生转动.
+
+\textbf{云台对准：} 保持机身不动，仅转动云台相机，将图传画面中心的十字线精确对准地面 $O$ 点的灯光.
+
+此时，操作界面显示云台参数如下：
+
+- 俯角（云台相机向下转动的角度，以水平为 $0^\circ$）：$\alpha$；
+- 偏航角（云台相机水平转动的角度，向左为负，向右为正）：$-\beta$.
+
+作为小组成员，你负责数据处理. 根据上述过程，可计算出该同学在“水平飞行”步骤中向南飞行的距离为
+
+A. $120 \tan\alpha \cos\beta$
+
+B. $\dfrac{120 \cos\beta}{\tan\alpha}$
+
+C. $\dfrac{120 \tan\alpha}{\cos\beta}$
+
+D. $\dfrac{120}{\tan\alpha \cos\beta}$
+
+8. 如图，在扇形 $AOB$ 中，半径为 $2$，点 $C$ 在弧 $AB$ 上. 过点 $C$ 作弧 $AB$ 所在圆的切线 $CD$，使得 $CD$ 的长度等于弧 $CB$ 的长度. 连接 $OD$，交弧 $CB$ 于点 $E$. 已知图中阴影部分的面积为 $\dfrac{\pi}{3}$，且 $\angle DOA = 90^\circ$. 则扇形 $AOB$ 的面积为
+   
+A. $\pi + 1$
+
+B. $\pi + 2$
+
+C. $\dfrac{4}{3}\pi$
+
+D. $\dfrac{7}{6}\pi$
+
+9. 如图，在边长为 $1$ 的正六边形 $ABCDEF$ 中，对角线 $AD$ 与 $BE$ 相交于点 $O$. 点 $G$ 位于线段 $DB$ 的延长线上，且满足 $GD = 2\sqrt{3} + 2$. 点 $H$ 沿正六边形 $ABCDEF$ 的边界运动，连接 $GH$，并以 $GH$ 为边，按图示方向作正三角形 $GHI$. 则线段 $OI$ 长度的取值范围是
+    
+A. $2\sqrt{3} \leqslant OI \leqslant 2\sqrt{7}$
+
+B. $2\sqrt{3} \leqslant OI \leqslant 3\sqrt{3}$
+
+C. $4 \leqslant OI \leqslant 2\sqrt{7}$
+
+D. $4 \leqslant OI \leqslant 3\sqrt{3}$
+
+10. 如图，在三角形 $ABC$ 中，$D$ 为 $AB$ 边上一点，$\angle ADC = 75^\circ$. $E$ 为 $AC$ 边上一点，$\angle AEB = 135^\circ$. 若三角形 $ABC$ 的面积为 $3 + \sqrt{3}$，$AE \cdot AC = 4$，则 $AD \cdot AB$ 的值为
+    
+A. $16$
+
+B. $\dfrac{16\sqrt{6} + 7\sqrt{2}}{3}$
+
+C. $\dfrac{15\sqrt{2} + 7\sqrt{3}}{2}$
+
+D. $17$
+
+11. 化简：$5(3m - 2) - 3(5m - 7)$.
+
+12. 在 $\triangle ABC$ 中，若 $\angle A + \angle B = 3\angle C$，$\angle C$ 等于.
+
+13. 如图，在直角三角形 $BAC$ 中，$BA \perp AC$，且 $\tan \angle C = \dfrac{3}{4}$. 过点 $B$ 作 $DB \perp BC$，且 $\angle BDA = 120^\circ$， $\tan \angle DAB$ 的值为.
+
+14. 如图，在直角三角形 $ABC$ 中，$AB = 2$，$BC = 4$，$\angle ABC = 90^\circ$. 点 $D$ 满足 $\angle BAD + \angle DBC + \angle DCB = 90^\circ$，且 $\angle BAD = \angle DBC$. 线段 $DC$ 的长为.
+
+15. 已知命题：“方程 $\dfrac{x - m}{x - 2} + \dfrac{2x + m}{x + 4} = 4$ 仅有负数根”为假命题，实数 $m$ 的取值范围为.
+
+16. 如图，在四边形 $ABCD$ 中，$AB = AD = \sqrt{7}$，$CD = 7$，$BC = 11$. 当四边形 $ABCD$ 的面积取得最大值时，对角线 $AC$ 的长度为.
+
+17. （本题8分）因式分解：$x^2 - 1$.
+18. （本题8分）解不等式组：
+$$
+\begin{cases}
+3x + 8 \leq 29, \\
+-2x + 7 < -1,
+\end{cases}
+$$
+并将解集在数轴上表示出来.
+
+19. (本题8分) 青少年体质健康是建设教育强国、体育强国和健康中国的重要基石. 为深入贯彻《“健康中国2030”规划纲要》和新时代“五育并举”育人理念, 浙江省各地中小学大力开展阳光体育活动, 鼓励学生在课后积极参与科学化、常态化的体能锻炼.某日下午最后一节课后, 小浙与小江积极响应学校“每天锻炼一小时”的倡议, 相约前往标准化操场进行跑步训练. 小浙于 $t = 0$ 时以 $4 \, \text{m/s}$ 的速度从操场最内道起跑点出发, 沿内道匀速绕圈奔跑; 小江因做热身准备稍晚, 在 $t = 0$ 时尚未起跑, 直至 2分钟后  才以 $3 \, \text{m/s}$ 的速度从同一地点同向出发. 已知操场最内道一圈长为 $400 \, \text{m}$, 两人始终沿最内道匀速运动, 可视为质点, 且均在小浙开始运动 15分钟时停止运动.如图, $l_1$ 与 $l_2$ 分别为小浙、小江的 $s-t$ 图像 (其中 $s$ 表示从起跑点开始累计的路程, 单位: 米; $t$ 表示从小浙开始运动起计时的时间, 单位: 秒).
+    
+(1) 求 $l_1$、$l_2$ 的函数表达式;
+
+(2) 求从小浙开始运动到结束的过程中, 小浙一共“套圈”小江多少次? (注: 当两人位于操场上同一位置时, 即视为一次套圈, 无论小江是否已开始运动.)
+20.（本题8分）生物学是一门探索生命现象与规律的自然科学，其研究内容涵盖生物体的结构与功能、个体发育、种群互动及生态系统等多个层面. 该学科体系庞大，包含动物生理学、植物生理学、生态学、细胞生物学、分子生物学等诸多分支. 在动物生理学中，神经信号的快速传递机制是一个重要课题. 当人体感受到外界刺激（如触碰高温物体），神经系统会通过一种称为“动作电位”的电信号实现毫秒级响应. 某中学生物兴趣小组对此开展模拟实验，记录了神经细胞受刺激后膜电位随时间的变化曲线（见图1）和不同刺激强度下的响应结果（见图2）. 请你结合图像回答下列问题：
+
+（1）已知图1中动作电位 $f$ 呈左右对称的波形，从静息电位 $-70\,\mathrm{mV}$ 上升至峰值 $+40\,\mathrm{mV}$ 所用的时间为 $0.4\,\mathrm{ms}$. 请计算其上升支的平均膜电位变化速率（单位：$\mathrm{mV/ms}$）.
+
+（2）图1中记录了 $a$、$b$、$c$、$d$、$e$ 这5次阈下刺激引起的膜电位波动. 请根据图1中给出的峰值数据，计算这5个峰值的平均值与方差.
+
+（3）参考图2，若用 $x$ 表示刺激强度（单位：$\mathrm{mA}$），$y$ 表示是否产生完整动作电位（即膜电位峰值达到 $+40\,\mathrm{mV}$）：当能产生时，记 $y = 1$；当不能产生时，记 $y = 0$. 请直接写出 $y$ 关于 $x$ 的函数表达式.
+
+21.（本题8分）823班数学课上，数学何老师提出了一个概念：如果一个整数 $a$ 满足 $c = |a| - 10b$，其中 $b$ 为整数，且 $0 \leq c \leq 9$，则称 $c$ 为 $a$ 的“净尾数”，记作 $/a/ = c$.
+
+(1) 请你求出 $-15$ 的“净尾数”.
+
+(2) 若 $m - 61 - \dfrac{2176}{17} = 97 + 63$，求 $/m/$ 的值.
+
+(3) 在标准化考试中，出题人常常精心构造数据，使得复杂问题存在“巧解”路径——这并非偶然，而是利用了数学结构中的隐藏规律，如尾数、奇偶性或同余特征. 这种“结构洞察”能力，不仅在考场上有用，在真实世界中同样至关重要.
+
+例如，在密码学中，攻击者可能利用模运算或尾数特征快速排除无效密钥；在金融风控中，分析师通过数字的末位规律识别异常交易；在计算机算法优化中，程序员常借助同余、取模等技巧提升计算效率. 这些都说明：善于从复杂系统中提取关键信息，是高效解决问题的核心素养.
+
+现有一个由两个方程构成的整数解问题：
+$$
+\begin{cases}
+54686562x + 93245619y = 476051553 & \text{①} \\
+x + y = 8 & \text{②}
+\end{cases}
+$$
+已知 $x, y$ 均为正整数. 小明同学尝试利用“净尾数”工具简化计算，其解答过程如下：
+
+由②得 $y = 8 - x$.③  
+$\because x, y$ 均为正整数，  
+$\therefore 
+\begin{cases}
+x > 0, \\
+8 - x > 0,
+\end{cases}$  
+解得 $0 < x < 8$.  
+由①得 $/2x + 9y/ = 3$.④  
+将③代入④，化简并移项，得 $/-7x + 70/ = 2$，  
+即 $/-7x/ = 2$，  
+由枚举法得 $x = 6$.
+
+请判断小明的解答过程是否正确. 若正确，请直接说明；若错误，请指出具体错误之处，给出正确解答，并说明如何规避此类问题. 在此基础上，结合上述现实背景，谈谈我们在面对复杂问题时应如何合理运用“简化策略”与“结构洞察”，避免陷入机械计算或逻辑漏洞.
+
+22.（本题10分）折纸，作为中华优秀传统文化中的精微技艺，素来与书法、节庆相融共生。每逢新春，人们以红纸载福，笔走龙蛇，寄托对祥瑞安康的祈愿。为让学生在动手实践中感悟“方正有度”的书写之道——因传统“福”字常书于正方形红笺之上，取其“端正圆满”之意——某校数学备课组组长朱老师特设计此几何折纸活动：通过严谨的折叠操作，从长方形纸片中精准折出一正方形，既承古法之巧思，亦启数理之妙趣。她分享的好方法如下所示：
+
+如图1，在长方形 $ABCD$ 中，$AB < AD$. 在边 $AD$ 上取一点 $E$，将 $\triangle ABE$ 沿直线 $BE$ 折叠，使点 $A$ 的对应点 $A'$ 恰好落在边 $BC$ 上.
+
+(1) 求证：四边形 $AEA'B$ 为正方形.
+
+(2) 某同学按上述方法折出一个正方形后，将其剪下；随后，他将剩余的长方形纸片再次按相同方式操作，又得到一个较小的正方形和一个新的长方形. 已知最终所得小长方形的长和宽分别为 $3$ 和 $2$. 若将两次剪下的两个正方形与该小长方形重新拼接，恰好能复原成与原长方形全等的大长方形，求最大正方形的对角线中点与该小长方形对角线中点之间的距离.
+
+(3) 朱老师发现，上述折纸方法本质上是从长方形中“取出一个最大正方形”. 若将剩余部分继续用同样方式处理——即反复从当前长方形中剪去（或折出）一个最大的正方形——最终会得到一个正方形. 这一过程，看似简单，却贯穿古今中外：古人分田划畦、裁缝剪布配流苏、今人折纸写“福”字，皆暗合此理.
+
+为帮助大家理解这一普适方法，阅读以下材料，完成以下小题.
+
+【材料一】  
+建初三年，会稽郡田曹掾谨奏：郡有官田一区，广三百六十步，袤四百八十步. 今欲划为方畦，以便均溉省工，且令畦形正方，尺寸划一，毋使畸零.  
+臣按《九章算术》之法：“以少减多，更相减损，求其等也.” 乃以广袤互减，凡减三次，得等数一百二十步. 遂划为方畦，每畦百二十步见方，纵横各三与四，共得十二畦，地无遗寸，民称便焉.  
+制曰：可.
+
+【材料二】  
+在古希腊的集市上，一位裁缝有两块布料，一块长 $117$ 厘米，另一块长 $65$ 厘米. 她想把它们都剪成**完全相同长度的小段**，用来做流苏，而且希望每段**尽可能长**，避免浪费.  
+她正发愁要不要拿尺子一段段试，路过的欧几里得笑着说：“不用量！你用长的那块去比短的，看多出多少；再拿短的去比这个‘多出来的’，一直比下去，直到刚好对齐——那个长度就是你要的！”  
+她照着做了：$117$ 比 $65$ 多 $52$，$65$ 比 $52$ 多 $13$，$52$ 正好是 $13$ 的 $4$ 倍. 于是每段剪成 $13$ 厘米.  
+她惊喜地说：“这方法真像我妈教我分丝线！” 欧几里得点头：“数学不在天上，就在你手里的活计里.”
+
+【材料三】  
+对于两个正整数 $a$ 和 $b$，如果一个正整数 $d$ 能同时整除 $a$ 和 $b$，就称 $d$ 是它们的一个公因数. 其中最大的那个，叫做最大公因数，记作 $\gcd(a, b)$.  
+例如：$\gcd(15, 9) = 3$.
+
+【材料四】  
+求两个正整数的最大公因数，可用辗转相除法：  
+$48 \div 18 = 2 \ldots 12$,  
+$18 \div 12 = 1 \ldots 6$,  
+$12 \div 6 = 2 \ldots 0$,  
+所以 $\gcd(48, 18) = 6$.  
+一般地，反复用大数除以小数，记录余数，再用除数除以余数，直到余数为 $0$，此时的除数就是最大公因数.
+
+一张长方形纸片长为 $18272$ 厘米，宽为 $384$ 厘米. 每次剪去一个最大的正方形，直到剩下最后一个正方形为止. 一共可以剪出多少个正方形？  一般地，若长方形的长为 $\dfrac{p_1}{q_1}$，宽为 $\dfrac{p_2}{q_2}$（$p_1, q_1, p_2, q_2$ 为正整数），经过若干次“剪最大正方形”操作后最终得到一个正方形. 试用 $p_1, q_1, p_2, q_2$ 表示这个正方形的边长，并说明理由.
+
+23.(本题10分)已知二次函数 $y = ax^{2} + bx + c$ 上有4点，分别为 $A(x_{1}, y_{1})$，$B(x_{2}, y_{2})$，$C(x_{3}, y_{3})$，$D(x_{4}, y_{4})$.
+(1)若 $a = 3$，点 $A$、$B$ 都在 $x$ 轴正半轴上，且 $x_{1} = 1$，$OA = \dfrac{1}{4} OB$.
+(i)求该 $y$ 的表达式.
+(ii)已知点 $P(3, p)$，$y' = mx + n$ 经过点 $P$ 且与 $y$ 交于 $C$、$D$ 2点，若 $CP = DP$，试用含 $p$ 的式子表示 $y'$ 的表达式，并求出 $p$ 的取值范围.
+(2)若 $y_{3} = \dfrac{1}{2}(y_{1} + y_{2})$，有一直线 $l$ 平行于 $AB$，且恰好经过点 $C$，求证：该直线 $l$ 一定与 $y$ 有两个交点.
+24.(本题12分)如图1，已知四边形 $ABCD$ 内接于圆 $O$，$AB \parallel DC$，且 $AB < DC$. 过点 $A$ 作 $AE \perp CD$ 交 $CD$ 于点 $E$，交圆 $O$ 于点 $F$. 连接 $OF$ 交 $CD$ 于点 $G$，有 $DA = \sqrt{2}OF$. 连接 $DB$ 交 $AF$ 于点 $H$. 过点 $C$ 作 $CI \perp DB$ 交 $DB$ 于点 $I$. 取 $AF$ 延长线上一点 $J$，作平行四边形 $DJKI$. 过点 $J$ 作 $JL \perp AJ$ 交 $BC$ 延长线于点 $L$. 连接 $LK$，恰有 $LK = JK$.
+
+(1)求证：$\triangle JKL \cong \triangle DIC$
+(2)求 $\dfrac{KI}{OL}$ 的值
+(3)求证：$\angle CGL = \angle HLD + \angle BDA$
+
+
+
+
+
+
+
+
+
+
+
+
+1. 负数是小于 $0$ 的数,在选项中只有 $-7$ 小于 $0$.
+
+
+2. 总共有 $9$ 张卡片, 其中写有“学”字的卡片有 $4$ 张, 抽到“学”字的概率为 $\frac{4}{9}$.
+
+   
+3. 科学记数法表示的形式为 $a \times 10^{n}$, 其中 $1 \le |a| < 10$, $n$ 是整数. 将 $0.0000025$ 的小数点向右移动 $7$ 位得到 $2.5$, 所以 $n=-7$. 因此, $0.0000025$ 用科学记数法表示为 $2.5 \times 10^{-7}$.
+
+4. 解: 由图知 $AD$ 为 $\angle BAD$ 的角平分线, $AB=AC$.
+$\because AB=AC$, $AD$ 平分 $\angle BAD$,
+$\therefore AD \perp BC$, $D$ 为 $BC$ 中点.
+而 $AB$ 可以不等于 $BC$.
+
+5. ① $= 2^2 \times 2 = 2^3$, 正确.
+② $= (x^3)^3 = x^{3 \times 3} = x^9$, 正确.
+③ $= x^2 + y^2 + 2xy$, 不正确.
+④ $\begin{cases} -k^3 \geq 0 \\ k \neq 0 \end{cases}$, 解得 $k < 0$.
+$\therefore \frac{\sqrt{-k^3}}{k} = \frac{\sqrt{k^2 \cdot (-k)}}{k} = \frac{-k\sqrt{-k}}{k} = -\sqrt{-k} \neq 0$.
+$\therefore m = n$,正确.
+
+6. 解:过点 $C$ 作 $CE \perp x$ 轴于点 $E$, 过点 $C'$ 作 $C'F \perp x$ 轴于点 $F$.
+$\because CE \perp x$ 轴, $C'F \perp x$ 轴,
+$\therefore \angle CEO = \angle C'FO = 90^\circ$.
+   $\because \triangle ABC \sim \triangle A'B'C'$,
+$\therefore \frac{S_{\triangle ABC}}{S_{\triangle A'B'C'}} = \frac{1}{4\sqrt{2}} = \left( \frac{OC}{OC'} \right)^2$.
+在 $\triangle COE$ 与 $\triangle C'OF$ 中,
+$\begin{cases} \angle COE = \angle C'OF \\ \angle CEO = \angle C'FO = 90^\circ \end{cases}$,
+$\therefore \triangle COE \sim \triangle C'OF$.
+设 $C'$ 在 $y = \frac{m}{x}$ 上.
+$\therefore \left( \frac{OC}{OC'} \right)^2 = \frac{S_{\triangle COE}}{S_{\triangle C'OF}} = \frac{\frac{1}{2} OE \cdot EC}{\frac{1}{2} OF \cdot C'F} = \frac{8}{m}$.
+$\therefore m = 32\sqrt{2}$.
+$\because$ 由对称性知 $C'$ 关于 $y$ 轴的对称点在 $y = -\frac{32\sqrt{2}}{x}$ 上.
+$\therefore k = 32\sqrt{2}$.
+
+7. \textbf{第一步：求水平距离（侧面三角形）}
+设无人机位置为 $P$，其在地面的投影为 $P'$.
+在 Rt$\triangle PP'O$ 中，已知高度 $PP' = 120$，俯角 $\angle POP' = \alpha$.
+由此求出水平总距离（即底边 $OP'$）：
+$$ OP' = \frac{120}{\tan \alpha} $$
+
+\textbf{第二步：求向南距离（俯视直角三角形）}
+在地面上，无人机的飞行轨迹构成直角三角形.
+\begin{itemize}
+    \item \textbf{斜边}：即第一步求出的 $OP'$.
+    \item \textbf{直角边}：题目要求的“向南飞行”距离，该边为偏航角 $\beta$ 的邻边.
+\end{itemize}
+根据余弦定义，可得：
+$$ \text{向南距离} = \text{斜边} \times \cos \beta $$
+$$ = \frac{120}{\tan \alpha} \times \cos \beta = \frac{120 \cos \beta}{\tan \alpha} $$ 
+
+8. 解：$\because S_{\triangle COD} = \frac{1}{2} \cdot OC \cdot CD$
+$S_{\text{扇}COB} = \frac{1}{2} \cdot OC \cdot\overset{\frown} {CB}$
+$\text{又} \because {CD} = \overset{\frown}{CB}$
+$\therefore S_{\triangle COD} = S_{\text{扇}COB}$
+$\therefore S_{\triangle COD} - S_{\text{扇}COE} = S_{\text{扇}COB} - S_{\text{扇}COE}$
+$\text{即 } S_{\text{阴}} = S_{\text{扇}EOB} = \frac{\pi}{3}$
+$\therefore S_{\text{扇}AOB} = S_{\text{扇}AOE} + S_{\text{扇}EOB}$
+$= \pi + \frac{\pi}{3}$
+$= \frac{4}{3}\pi$
+
+
+9. 解: 寻找 I 点轨迹:
+作正三角形 $\triangle GAJ$ 与 $\triangle GBK$.
+$\because \angle AGJ = \angle BGK$
+$\therefore \angle AGJ - \angle BGJ = \angle BGK - \angle BGJ$
+即 $\angle AGB = \angle JGK$
+在 $\triangle AGB$ 与 $\triangle JGK$ 中  
+$\because\begin{cases} AG = GJ \\ \angle AGB = \angle JGK \\ GB = GK \end{cases}$
+$\therefore \triangle AGB \cong \triangle JGK$
+$\therefore$ $H$ 在 $AB$ 上运动时, $I$ 在 $JK$ 上运动.
+过点 $J$ 作 $l \parallel ED$，过点 $K$ 作 $KQ \perp GB$ 交 $GB$ 于点 $Q$.
+$\because GK = KB, \angle GKB = 60^\circ, KQ \perp GB$
+$\therefore \angle GKQ = 30^\circ$
+$\therefore \angle QKJ = \angle GKJ - \angle GKQ = 60^\circ$
+$\because l \parallel ED \parallel KQ$
+$\therefore \angle 1 = \angle QKJ = 60^\circ$
+其余轨迹同理可得, 易证其轨迹 $JKLMNP$  为正六角形.
+连结 $AO, BO$. $\triangle AOB$ 与 $\triangle GAJ$ 为等边三角形.易证 $\triangle AOJ \cong \triangle ABG$,
+$\therefore \angle AOJ = \angle ABG = 90^\circ$, $OJ$ 即为最小值.
+$\therefore OJ = GB = 2\sqrt{3}$
+连结 $EO, OD$. $\triangle EOD$ 与 $\triangle GDM$ 为等边三角形, $OM$ 即为最大值, $\triangle ODM \cong \triangle EDG$.
+在 Rt$\triangle GDE$ 中, $GE = OM = \sqrt{GD^2 + ED^2} = 2\sqrt{7}$
+
+10. 解: 在 AB 上取点 F, 使 $\angle BFC = 45^\circ$.
+$\because \angle AEB = 135^\circ$
+$\therefore \angle BEC = \angle BFC = 45^\circ$
+$\therefore \angle AEB = \angle AFC = 135^\circ$
+在 $\triangle AEB$ 与 $\triangle AFC$ 中
+$\because\begin{cases} \angle BAE = \angle FAC \\ \angle AEB = \angle AFC \end{cases}$
+$\therefore \triangle AEB \sim \triangle AFC$
+$\therefore \frac{AE}{AF} = \frac{AB}{AC}$
+$\therefore AE \cdot AC = AB \cdot AF = 4$
+连结 $CF$, 过点 $D$ 作 $DG \perp CF$ 交 $CF$ 于点 $G$, 过点 $C$ 作 $CH \perp AB$ 交 $AB$ 于点 $H$
+$\because DG \perp FC, \angle DFC = 45^\circ$
+$\therefore \angle FGD = 90^\circ, \angle FDG = 45^\circ$
+$\because \angle ADC = 75^\circ$
+$\therefore \angle GDC = \angle FDC - \angle FDG = 30^\circ$
+在 Rt$\triangle DGC$ 中, $\angle DGC = 90^\circ, \angle GDC = 30^\circ$, 设 $GC = k$
+则 $DG = \sqrt{3}k$
+在 Rt$\triangle FGD$ 中, $\angle GFD = 45^\circ, \angle FGD = 90^\circ$
+$\therefore FG = DG = \sqrt{3}k, DF = \sqrt{6}k$
+$\because S_{\triangle DFC} = \frac{1}{2} \cdot CF \cdot DG = \frac{1}{2} \cdot DF \cdot CH$
+$\therefore \frac{\sqrt{3}(\sqrt{3}+1)k^2}{2} = \frac{\sqrt{6}k \cdot CH}{2}$ ①
+$\because S_{\triangle ABC} = \frac{1}{2} \cdot AB \cdot CH = 3 + \sqrt{3}$ ②
+$\therefore$ 由 ①② 知 $k \cdot AB = 2\sqrt{6}$
+$\therefore DF \cdot AB = \sqrt{6}k \cdot AB = 12$
+$\therefore AD \cdot AB = (AF + FD) \cdot AB = AF \cdot AB + FD \cdot AB = 4 + 12 = 16.$
+
+11. 解：原式 $= 15m-10-15m+21 = -10+21 = 11$
+
+12. 解：$\because \angle A+\angle B=3\angle C$, $\angle A+\angle B+\angle C=180^\circ$
+$\therefore \angle A+\angle B+\angle C = 4\angle C=180^\circ$
+$\therefore \angle C=45^\circ$
+
+13. 解: 过点$A$作$AE \perp BC$交$BC$于点$E$
+过点$D$作$DF \perp AE$交$AE$于点$F$
+过点$B$作$BG \perp AD$交$AD$于点$G$
+$\because \angle BAE + \angle EAC = 90^\circ$
+$\angle EAC + \angle ACE = 90^\circ$
+$\therefore \angle BAE = \angle ACE$
+在$Rt\triangle BAE$中, 设$BA=3$, $\tan\angle BAE = \dfrac{3}{4}$
+$\therefore BE = \dfrac{9}{5}$, $EA = \dfrac{12}{5}$
+$\because \angle ADF = \angle BDA - \angle BDF = 30^\circ$, $DF = BE = \dfrac{9}{5}$
+$\therefore在Rt\triangle ADF$中, $AF = \dfrac{3\sqrt{3}}{5}$, $DA = \dfrac{6\sqrt{3}}{5}$
+$\therefore DB = \dfrac{12-3\sqrt{3}}{5}$
+再将边长放大为原先10倍
+$\therefore DA = 12\sqrt{3}$, $BD = 24-6\sqrt{3}$
+$\because$ 在$Rt\triangle DBG$中, $\angle GDB = 180^\circ - \angle BDA = 60^\circ$
+$\therefore GD = 12-3\sqrt{3}$, $GB = 12\sqrt{3}-9$
+$\because$ 在$Rt\triangle BGA$中, $\tan\angle DAB = \dfrac{GB}{GA}$
+$\therefore \tan\angle DAB = \dfrac{12\sqrt{3}-9}{12+9\sqrt{3}} = \dfrac{4\sqrt{3}-3}{4+3\sqrt{3}} = \dfrac{48-25\sqrt{3}}{11}$
+
+14. 解: 延长 $CD$ 交 $AB$ 于点 $E$
+设 $\angle BAD = \angle DBC = \alpha$, 则 $\angle DCB = 90^\circ - 2\alpha$
+$\because \angle ABC = 90^\circ$
+$\therefore \angle CEB = 2\alpha$
+$\because \angle CEB = \angle EAD + \angle ADE$
+$\therefore \angle ADE = \angle DAE = \alpha$, $AE = ED$
+$\because \angle DBE = \angle EBC - \angle DBC = 90^\circ - \alpha$
+$\therefore \angle EDB = \angle DBE = 90^\circ - \alpha$
+$\therefore DE = EB$
+$\therefore AE = EB$
+$\because \angle ADB = 180^\circ - \angle DAB - \angle DBA = 90^\circ$
+$\therefore DE = \frac{1}{2}AB = 1$
+在 $Rt\triangle CBE$ 中, $CE = \sqrt{CB^2 + BE^2} = \sqrt{17}$
+$\therefore DC = CE - DE = \sqrt{17} - 1$
+
+15. 解:原式 $=(x-m)(x+4)+(2x+m)(x-2)=4(x+4)(x-2)$
+化简得 $x^2+8x-32+6m=0$, 其对称轴为直线$x=-4$.
+当此方程仅有负数根时:
+① $\begin{cases} x\neq 2 \\ x\neq -4 \\ \Delta\geq 0 \\ f(0)>0 \end{cases}$, 解得 $\dfrac{16}{3} < m < 8$
+② $f(2)=0$, 解得 $m=2$
+此时二次方程有两根,但对于分式方程而言需舍去$x=2$,故仅有负根.
+$\because$其为假命题
+$\therefore m<2$ 或 $2<m\leq\dfrac{16}{3}$ 或 $m\geq 8$
+
+16. 解: 将$\triangle BAC$旋转至$\triangle DAE$, 过点$A$作$AF \perp CE$交$CE$于点$F$
+过点$D$作$DG \perp CE$交$CE$于点$G$, 过点$D$作$DH \perp AF$交$AF$于点$H$
+$\because \triangle BAC \cong \triangle DAE$
+$\therefore CA = AE$
+$\because AF \perp CE$
+$\therefore CF = FE$
+设$GF = y$, $FE = x$
+$\therefore CG = CF - GF = FE - GF = x - y$
+在$Rt\triangle CGD$中, $GD^2 = CD^2 - CG^2$
+$= 7^2 - (x-y)^2$
+在$Rt\triangle EGD$中, $GD^2 = DE^2 - GE^2$
+$= 11^2 - (x+y)^2$
+$\therefore 7^2 - (x-y)^2 = 11^2 - (x+y)^2$
+$\therefore xy = 18$
+$\because S_{ABCD} = S_{CDA} + S_{ADE} = S_{CAE} - S_{CDE}$
+$= \frac{1}{2} CE \cdot AF - \frac{1}{2} CE \cdot GD$
+$= \frac{1}{2} CE \cdot (AF - GD)$
+$= \frac{1}{2} CE \cdot HA$
+当$C, D, E$三点共线时, $CE$取到最大值,
+即$2x$取到最大值
+$\because xy = 18$
+$\therefore y$此时取到最小值
+在$Rt\triangle DHA$中, $DA = \sqrt{7}$, $DH = y$
+$HA = \sqrt{DA^2 - DH^2} = \sqrt{7 - y^2}$
+$\therefore HA$此时取到最大值
+$\therefore$此时$S_{ABCD}$取到最大值
+此时 $G, D$ 共点, $F, H$ 共点, $CE = CD + DE = 18$
+$\because CA = AE$, $AF \perp CE$
+$\therefore CF = FE = \frac{1}{2}CE = 9$
+$\because CD = 7$
+$\therefore DF = CF - CD = 2$
+在 $Rt\triangle DFA$ 中, $FA = \sqrt{DA^2 - DF^2} = \sqrt{3}$
+在 $Rt\triangle CFA$ 中, $CA = \sqrt{FA^2 + CF^2} = 2\sqrt{21}$
+
+17. 解：原式 $= (x+4)(x-4)$
+
+18. 解：$\begin{cases} 3x+8 \le 29 & \text{①}  \\
+-2x+7 < -1 & \text{② } \end{cases}$
+由①知 $3x \le 21$
+$x \le 7$
+由②知 $-2x < -8$
+$x > 4$
+$\therefore$ 原不等式组的解集为 $4 < x \le 7$
+
+19. (1) 解：$15 \times 60 = 900$ (秒)
+$l_1: s = 4t \quad (0 \le t \le 900)$
+设$l_2: s = 3t + b$
+当 $t = 60 \times 2 = 120$时 , $s = 120 \times 3 + b = 0$
+解得 $b = -360$
+$\therefore l_2: s = 3t - 360 \quad (120 \le t \le 900)$
+(2) 解：$\Delta s = 4t - (3t - 360) = t + 360$
+当 $t = 900$ 时，$\Delta s = 900 + 360 = 1260$
+$1260 \div 400 = 3 \cdots 60$
+$\therefore$ 套圈 3 次.
+
+20. (1) 解：$\frac{40 - (-70)}{0.4} = 275 \text{ mV/mS}$
+(2) 解：$\overline{x} = \frac{1}{5} \times [(-60) + (-65) + (-56) + (-68) + (-61)] = -62 \text{ mV}$
+$S^2 = \frac{1}{5} \times \{ [(-60) - (-62)]^2 + [(-65) - (-62)]^2 + [(-56) - (-62)]^2 + [(-68) - (-62)]^2 + [(-61) - (-62)]^2 \} = 17.2$
+(3) 解：$y = \left\{ \begin{aligned} 0, & \quad 0 \le x < 0.5 \\ 1, & \quad x \ge 0.5 \end{aligned} \right.$
+
+21. (1) 解：$\because |{-15}| - 10\times1 = 5$
+$又\because 0 < 5 < 9$
+$\therefore /-15/ = 5$
+
+(2) 解：$m-61 - 128 = 97 + 63$
+$/m-1-8/ = /7+3/$
+$/m-9/ = 0$
+$/m/ = 9$
+
+(3) 解：由①得 $/2x+9y/ = 3\text{ ④ }$
+把③代入④，得 $/2x+9(8-x)/ = 3$
+$/2x+72-9x/ = 3$
+$/-7x+72/ = 3$
+$/-7x+70/ = 1 \text{ ④ }$
+$\because -7x < 0$
+$\therefore /-7x/ = 9$
+由枚举法得 $x = 7$
+
+22. (1) 解：
+$\because$ 四边形 $ABCD$ 为长方形 
+$\therefore \angle BAE = \angle ABA' = 90^\circ$ 
+$\because$ 折叠 
+$\therefore \angle BAE = \angle BA'E = 90^\circ$ 
+$\therefore \angle AEA' = 360^\circ - \angle ABA' - \angle BAE - \angle BA'E = 90^\circ$ 
+$\because \angle ABA' = \angle BA'E = \angle A'EA = \angle EAB = 90^\circ$ 
+$\therefore$ 四边形 $ABA'E$ 为矩形 
+$\because$ 折叠 
+$\therefore BA = BA'$ 
+$\therefore$ 四边形 $ABA'E$ 为正方形
+
+(2) 解：
+① 如图，四边形 $ABCD$ 为正方形，四边形 $DEGH$ 为正方形，四边形 $ECFG$ 为矩形，且 $EC=2, CF=3$. 
+连接 $AC, BD$ 交于点 $I$, 连接 $EF, CG$ 交于点 $J$, 连接 $AG$. 
+$\because$ 四边形 $ABCD$ 为正方形，四边形 $ECFG$ 为矩形 
+$\therefore I$ 为 $CA$ 的中点，$J$ 为 $CG$ 的中点 
+$\therefore IJ$ 为 $\triangle CAG$ 的中位线 
+$\therefore IJ \parallel =  \frac{1}{2} AG$ 
+$\because$ 四边形 $ECFG$ 为矩形 
+$\therefore EG = CF = 3, CE = GF = 2$ 
+$\because$ 四边形 $DEGH$ 为正方形 
+$\therefore DE = EG = GH = DH = 3, \angle DHG = 90^\circ = \angle HDE$ 
+$\therefore DC = DE + EC = 5$ 
+$\because$ 四边形 $ABCD$ 为正方形 
+$\therefore AD = DC = CB = BA = 5, \angle ADC = 90^\circ$ 
+$\therefore \angle ADC + \angle EDH = 180^\circ$ 
+$\therefore A, D, H$ 三点共线 
+$\therefore AH = AD + DH = 8$ 
+在 Rt$\triangle AHG$ 中，$AH=8, HG=3, AG = \sqrt{AH^2 + HG^2} = \sqrt{73}$ 
+$\therefore IJ = \frac{1}{2} AG = \frac{\sqrt{73}}{2}$
+
+② 如图，四边形 $ABCD$，四边形 $EFDG$ 为正方形，四边形 $HAFE$ 为矩形，且 $HA=2, HE=3$。连接 $HF, AE$ 交于点 $I$，连接 $AC, BD$ 交于点 $J$，连接 $CE$。
+$\because$ 四边形 $HAFE$ 为矩形 $\therefore HA = EF = 2, \quad HE = AF = 3$
+$\because$ 四边形 $EFGD$ 为正方形 $\therefore EF = GD = EG = FD = 2, \quad \angle EDF = 90^\circ = \angle GDF$
+$\therefore AD = AF + FD = 3 + 2 = 5$
+$\because$ 四边形 $ABCD$ 为正方形 $\therefore AD = DC = 5, \quad \angle ADC = 90^\circ$
+$\therefore \angle ADC + \angle FDG = 180^\circ$ 
+$\therefore G, D, C$ 三点共线
+$\therefore GC = GD + DC = 5 + 2 = 7$
+$\because$ 四边形 $HAFE$ 为矩形，四边形 $ABCD$ 为正方形 
+$\therefore I$ 为 $EA$ 的中点，$J$ 为 $AC$ 的中点
+$\therefore IJ$ 为 $\triangle AEC$ 的中位线
+$\therefore IJ \parallel = \frac{1}{2} EC$
+在 $Rt\triangle EGC$ 中，$EG=2, GC=7$ $\therefore EC = \sqrt{EG^2 + GC^2} = \sqrt{53}$
+$\therefore IJ = \frac{1}{2} EC = \frac{\sqrt{53}}{2}$
+
+(3) 解：
+$18272 \div 384 = 47 \cdots\cdots 224$
+$384 \div 224 = 1 \cdots\cdots 160$
+$224 \div 160 = 1 \cdots\cdots 64$
+$160 \div 64 = 2 \cdots\cdots 32$
+$64 \div 32 = 2$
+$47 + 1 + 1 + 2 + 2 = 53$ \text{个}
+先将此长方形放大为原来的 $q_1 q_2$ 倍，即长为 $p_1 q_2$，宽为 $p_2 q_1$ 的一个长方形.因为最终产生的正方形边长为长与宽的最大公因数，所以此时最终得到正方形边长为 $\gcd(p_1 q_2, p_2 q_1)$.再缩小为原来的 $q_1 q_2$ 倍，可得由原长方形最终得到的正方形边长为 $\frac{\gcd(p_1 q_2, p_2 q_1)}{q_1 q_2}$.
+
+23. (1)(i) 解：$\because x_1=1$
+$\therefore A(1,0), OA=1$
+$\because OA=\frac{1}{4}OB$
+$\therefore OB=4$
+$\because B$ 在 $x$ 轴正半轴上
+$\therefore B(4,0)$
+$\because a=3, y$ 过点 $A(1,0), B(4,0)$
+$\therefore y=3(x-1)(x-4)$
+$=3x^2-15x+12$
+(ii) 解：$3x^2-15x+12=mx+n$
+$3x^2+(-15-m)x+(12-n)=0$  $\quad$ $③$
+$\therefore x_3+x_4 = -\frac{-15-m}{3} = \frac{15+m}{3}$ $\quad$ $①$
+$\because CP=DP$
+$\therefore \frac{x_3+x_4}{2} = x_p = 3$ $\quad$ $②$
+$\therefore$ 由 ①② 可解得 $m=3$ $\quad$ $④$
+当 $x=3$ 时，$y' = 3\times3+n = p$
+$\therefore n=p-9$ $\quad$ $⑤$
+$\therefore$ 由 ③④⑤ 知 $3x^2-18x+(21-p)=0$
+$\Delta = 18^2 - 4\cdot3(21-p) > 0$
+解得 $p > -6$
+$\therefore y'=3x+p-9, \quad p>-6$
+
+(2) 解：设 $l: y=ix+j$，$l_0 \parallel l$，$l_0$ 与 $y$ 相切交于点 $E(x_5, y_5)$，则可得 $l_0: y=ix+k$
+$ix+j = ax^2+bx+c$
+化简得 $ax^2+(b-i)x+(c-j)=0$，$x_1+x_2 = -\frac{b-i}{a}$ $\quad$ $⑥$
+$ix+k = ax^2+bx+c$
+化简得 $ax^2+(b-i)x+(c-k)=0$，$x_5+x_5 = -\frac{b-i}{a}$ $\quad$ $⑦$
+$\therefore$ 由 ⑥⑦ 知 $x_5 = \frac{x_1+x_2}{2}$
+
+$y_3 - f(\frac{x_1+x_2}{2}) = \frac{y_1+y_2}{2} - f(\frac{x_1+x_2}{2})$
+$= \frac{f(x_1)+f(x_2)}{2} - f(\frac{x_1+x_2}{2})$
+$= \frac{1}{2}[(ax_1^2+bx_1+c)+(ax_2^2+bx_2+c)] - [a(\frac{x_1+x_2}{2})^2+b(\frac{x_1+x_2}{2})+c]$
+$= [a(\frac{x_1^2+x_2^2}{2}) + b(\frac{x_1+x_2}{2}) + c] - [a(\frac{x_1+x_2}{2})^2+b(\frac{x_1+x_2}{2})+c]$
+$= a[\frac{x_1^2+x_2^2}{2} - (\frac{x_1+x_2}{2})^2]$
+$= \frac{1}{4}a(x_1-x_2)^2$
+$\because x_1 \neq x_2$
+$\therefore (x_1-x_2)^2 > 0$
+
+在证明了$x_5 = \frac{x_1+x_2}{2}$与$y_3 - f(\frac{x_1+x_2}{2}) = \frac{1}{4}a(x_1-x_2)^2$之后有以下两种证法.
+
+法一：① 当 $a>0$ 时，$y_3 - f(\frac{x_1+x_2}{2}) > 0$，由图知此时 $l$ 与 $y$ 必有两个交点
+② 当 $a<0$ 时，$y_3 - f(\frac{x_1+x_2}{2}) < 0$，由图知此时 $l$ 与 $y$ 必有四个交点
+
+法二：① 假设 $l$ 与 $y$ 没有交点
+$\because y_3 = \frac{y_1+y_2}{2}$
+$\therefore$ 由图知，$y$ 不可能与 $l$ 没有交点，与假设矛盾。
+② 假设 $l$ 与 $y$ 仅有一个交点
+$\because y_3 - f(\frac{x_1+x_2}{2}) = 0 = \frac{1}{4}a(x_1-x_2)^2$
+$\therefore x_1=x_2$
+$\therefore$ 与 $A,B$ 为两个不重合的点矛盾
+综上，$l$ 与 $y$ 一定有两个交点
+
+
+24. (1) 解：连结 $OD, OA$
+$\because OF=OD=OA$，$DA=\sqrt{2}OF$
+$\therefore DA=\sqrt{2}OF=\sqrt{2}OD=\sqrt{2}OA$
+$\therefore DA^2=OD^2+OA^2$
+$\therefore \angle DOA=90^\circ$
+$\therefore \angle ABD=\frac{1}{2}\angle DOA=45^\circ$
+$\because AB \parallel CD$，$AE \perp CD$
+$\therefore AE \perp AB$
+$\therefore \angle FAB=90^\circ$
+$\therefore \angle AHB=\angle DHE=45^\circ$
+$\because$ 四边形 $DIKJ$ 为平行四边形
+$\therefore DI \parallel= JK$
+$\therefore \angle DHE=\angle HJK=45^\circ$
+$\because JL \perp AJ$
+$\therefore \angle LJA=90^\circ$
+$\therefore \angle KJL=\angle LJA-\angle HJK=45^\circ$
+$\because JK=KL$
+$\therefore \angle KJL=\angle KLJ=45^\circ$，$\angle JKL=90^\circ$
+$\because CI \perp BD$
+$\therefore \angle DIC=90^\circ$
+$\because AB \parallel CD$
+$\therefore \angle ABD=\angle BDC=45^\circ$
+$\therefore \angle ICD=45^\circ$
+在 $\triangle JKL$ 与 $\triangle DIC$ 中
+ $\because$ $\begin{cases} \angle KJL=\angle IDC=45^\circ \\ JK=DI \\ \angle JKL=\angle DIC=90^\circ \end{cases}$
+$\therefore \triangle JKL \cong \triangle DIC (ASA)$
+(2) 解：$\because CD \perp AF$
+$\therefore \angle DEJ=90^\circ$
+$\therefore \angle EDJ+\angle DJE=90^\circ$
+$\therefore \angle CDJ+\angle DJE+\angle HJK+\angle KJL=180^\circ$
+$\therefore \angle CDJ+\angle DJL=180^\circ$
+$\therefore JL \parallel DC$
+$\therefore$ 四边形 $JLCD$ 为平行四边形
+$\therefore LB \parallel JD$
+设 $\angle BCI=\alpha$，则 $\angle IBC=90^\circ-\alpha$
+$\because A,B,C,D$ 四点共圆
+$\therefore \angle ABC+\angle ADC=180^\circ$
+$\therefore \angle ADC=45^\circ+\alpha=\angle DCB$
+$\because JD \parallel BL$
+$\therefore \angle BCD=\angle JDC$
+$\therefore \angle JDC=\angle CDA$
+$\therefore 90^\circ-\angle JDC=90^\circ-\angle CDA$
+$\therefore \angle DJE=\angle DAE$
+$\therefore JD=DA$
+$\because \angle ABD=\angle BDC$
+$\therefore DA=BC$
+$\because$ 四边形 $JDIK$ 为平行四边形
+$\therefore JD=KI$
+$\because$ 四边形 $JDCL$ 为平行四边形
+$\therefore JD=CL$
+连结 $FB$
+$\because \angle FAB=90^\circ$
+$\because FB$ 为直径
+$\therefore FB=2OF=OF+OB$
+$\therefore F,O,B$ 三点共线
+连结 $FL, FC$
+$\because FB$ 为直径
+$\therefore \angle FCB=90^\circ$
+$\because \angle FCD=\angle FCB-\angle DCB=45^\circ-\alpha$
+$\angle FCD=\angle DBF=45^\circ-\alpha$
+$\therefore \angle FBC=\angle DBC-\angle DBF=45^\circ$
+$\therefore \angle CFB=\angle CBF=45^\circ$
+$\therefore CF=CB$
+$\because \angle FCL=90^\circ$，$FC=CL$
+$\therefore \angle CFL=\angle CLF=45^\circ$
+$\therefore \angle FLB=\angle FBL=45^\circ$，$\angle LFB=90^\circ$
+$\therefore$ 设$FL=FB=2x=2OF$，$OF=x$
+连接 $OL$
+在 $Rt\triangle OLF$ 中，$OL=\sqrt{OF^2+FL^2}=\sqrt{5}x$
+在 $Rt\triangle FLB$ 中，$BL=\sqrt{FL^2+FB^2}=2\sqrt{2}x$
+$\because KI=\frac{1}{2}\cdot 2KI=\frac{1}{2}(LC+CB)=\frac{1}{2}BL=\sqrt{2}x$
+$\therefore \frac{KI}{OL}=\frac{\sqrt{2}x}{\sqrt{5}x}=\frac{\sqrt{10}}{5}$
+(3) 解：$\because \angle AMB=45^\circ$
+$\therefore \angle FHB=135^\circ$
+$\therefore \angle FHB+\angle FLB=180^\circ$
+$\therefore F,H,B,L$ 四点共圆
+$\therefore \angle FHL=\angle FBL=45^\circ$
+$\because \angle JHL + \angle JLK + \angle LJH = 180^\circ$
+$\therefore L, K, H$ 三点共线
+连结 $LD, GL$
+$\because \angle JLH = 45^\circ = \angle FLJ + \angle FLD + \angle DLH$
+$\angle FLC = \angle DLH + \angle HLC + \angle FLD = 45^\circ$
+$\therefore \angle FLJ + \angle DLH = \angle DLH + \angle HLC = \angle DLC$
+为了证明 $\angle DLC= \angle CGL$,有以下两种思路.
+法一：在 $\triangle GBC$ 与 $\triangle BDC$ 中
+$\because$ $\begin{cases} \angle GCB = \angle DCB \\ \angle GBC = \angle BDC \end{cases}$
+$\therefore \triangle GBC \sim \triangle BDC$
+$\therefore \frac{BC}{CG} = \frac{DC}{BC}$
+$\because BC = CL$
+$\therefore \frac{CL}{CG} = \frac{DC}{CL}$
+在 $\triangle CLG$ 与 $\triangle CDL$ 中
+$\begin{cases} \frac{CL}{CG} = \frac{DC}{CL} \\ \angle LCG = \angle DCL \end{cases}$
+$\therefore \triangle CLG \sim \triangle CDL$
+$\therefore \angle CGL = \angle CLD$
+$\therefore \angle CGL = \angle FLJ + \angle DLH$
+法二：$\because FL = FB$
+$\therefore \frac{FG}{FL} = \frac{FG}{FB}$
+$\because DC \parallel AB$
+$\therefore \frac{FG}{FB} = \frac{EF}{FA}$
+$\therefore \frac{FG}{FL} = \frac{EF}{FA}$
+在 $\triangle DEH$ 与 $\triangle HJL$ 中
+$\because \begin{cases} \angle DEH = \angle HJL = 90^\circ \\ \angle EDH = \angle JHL = 45^\circ \end{cases}$
+$\therefore \triangle DEH \sim \triangle HJL$
+$\therefore \frac{DH}{HL} = \frac{EH}{JH}$
+连结 $DF$
+$\because FB$ 为直径
+$\therefore \angle FDB = 90^\circ$
+$\therefore \angle DFH = 45^\circ = \angle DHF$
+$\therefore DF = DH$
+$\because DC \perp AF$
+$\therefore EF = EH$
+$\therefore \frac{EH}{JH} = \frac{EF}{JH}$
+$\because DJ = DA$，$DC \perp JA$
+$\therefore JE = EA$
+$\therefore JE - FE = EA - EH$
+$\therefore JF = HA$
+$\therefore JF + FH = HA + AF$
+$\therefore JH = AF$
+$\therefore \frac{EF}{JH} = \frac{EF}{AF}$
+$\therefore \frac{DH}{HL} = \frac{EF}{AF}$
+$\because \frac{FG}{FL} = \frac{EF}{AF}$
+$\therefore \frac{FG}{FL} = \frac{DH}{HL}$
+在 $\triangle LFG$ 与 $\triangle LHD$ 中
+$\because \begin{cases} \frac{GF}{FL} = \frac{DH}{HL} \\ \angle LFB = \angle DHL = 90^\circ \end{cases}$
+$\therefore \triangle LFG \sim \triangle LHD$
+$\therefore \angle FGL = \angle HDL$
+$\therefore \angle FGL = \angle FBL + \angle BLG$
+$= 45^\circ + \angle BLG$
+$= \angle HDL$
+$= \angle HDC + \angle LDC$
+$= 45^\circ + \angle LDC$
+$\therefore \angle LDC = \angle BLG$
+可证 $\triangle CLG \sim \triangle CDL$
+剩下思路与法一一致
+
+
+
+

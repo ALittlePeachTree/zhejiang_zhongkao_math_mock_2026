@@ -1,0 +1,5 @@
+var names = ggbApplet.getAllObjectNames("point");
+for (var i = 0; i < names.length; i++) {
+    ggbApplet.setCaption(names[i], "$%n$");
+    ggbApplet.setLabelStyle(names[i], 3); 
+}
