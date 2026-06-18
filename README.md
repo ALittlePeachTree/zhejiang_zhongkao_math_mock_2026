@@ -6,13 +6,13 @@
 # 浙江省2026年初中学业水平模拟考试 · 数学卷
 
 > *📥 正式试卷下载 (Word)* *Download Paper (Word)* 👉
-> [zhejiang_zhongkao_math_mock_2026.docx](zhejiang_zhongkao_math_mock_2026/zhejiang_zhongkao_math_mock_2026.docx)
+> [zhejiang_zhongkao_math_mock_2026.docx](zhejiang_zhongkao_math_mock_2026.docx)
 > *📄 正式试卷下载 (PDF)* *Download Paper (PDF)* 👉
-> [zhejiang_zhongkao_math_mock_2026.pdf](zhejiang_zhongkao_math_mock_2026/zhejiang_zhongkao_math_mock_2026.pdf)
+> [zhejiang_zhongkao_math_mock_2026.pdf](zhejiang_zhongkao_math_mock_2026.pdf)
 > *🔑 参考答案下载 (Word)* *Download Answer Key (Word)* 👉
-> [zhejiang_zhongkao_math_mock_2026_answer.docx](zhejiang_zhongkao_math_mock_2026/zhejiang_zhongkao_math_mock_2026_answer.docx)
+> [zhejiang_zhongkao_math_mock_2026_answer.docx](zhejiang_zhongkao_math_mock_2026_answer.docx)
 > *📄 参考答案下载 (PDF)* *Download Answer Key (PDF)* 👉
->  [zhejiang_zhongkao_math_mock_2026_answer.pdf](zhejiang_zhongkao_math_mock_2026/zhejiang_zhongkao_math_mock_2026_answer.pdf)
+>  [zhejiang_zhongkao_math_mock_2026_answer.pdf](zhejiang_zhongkao_math_mock_2026_answer.pdf)
 
 *本卷面向初三学生，整体难度略高于中考，压轴题达到竞赛入门水平，适合拔高训练。* ***配套参考答案已同步发布，包含详细步骤***
 
